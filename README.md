@@ -1,5 +1,3 @@
-# zatca-invoice-validator
-
 # ZATCA Invoice Validator
 
 Automated validation of Saudi ZATCA e-invoices using fuzzy matching.
